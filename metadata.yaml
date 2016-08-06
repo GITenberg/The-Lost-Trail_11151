@@ -1,0 +1,35 @@
+_repo: The-Lost-Trail_11151
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ellis, Edward Sylvester
+    aliases:
+    - Jayne, R. H.
+    - Ellis, E. S. (Edward Sylvester)
+    - Ellis, Edward S. (Edward Sylvester)
+    birthdate: 1840
+    deathdate: 1916
+    gutenberg_agent_id: '2569'
+    url: http://www.gutenberg.org/2009/agents/2569
+description: ''
+gutenberg_bookshelf: Children's Fiction
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11151'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dime novels'
+- !lcsh 'Dakota Indians -- Fiction'
+- !lcsh 'Minnesota -- Fiction'
+- !lcsh 'Missionaries -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Love stories, American'
+- !lcsh 'Indian captivities -- Fiction'
+- !lcsh 'Frontier and pioneer life -- Mississippi River Valley -- Fiction'
+- GITenberg
+title: The Lost Trail
+url: http://www.gutenberg.org/ebooks/11151
